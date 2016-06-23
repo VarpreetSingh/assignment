@@ -1,0 +1,165 @@
+
+.wrap
+{
+  padding-top: 70px;
+
+}
+
+
+header h1
+{
+  text-align: left;
+  padding-left: 10px;
+}
+.container1 h1
+{
+  padding-left: 70px;
+}
+.new1{
+  padding-right: 100px;
+}
+
+#p1
+{
+  text-align: justify;
+  padding-right: 20px;
+}
+#p2
+{
+  text-align: justify;
+  padding-right: 20px;
+}
+#p3
+{
+  text-align: justify;
+  padding-right: 20px;
+}
+#subs{
+  padding-top: 50px;
+  text-align: center;
+}
+
+.io1
+{
+  padding-top: 50px;
+  text-align: center;
+  }
+  #d1
+  {
+  text-align: center;
+  }
+  .last{
+    padding-top: 50px;
+  }
+.io2
+  {
+    padding-top: 50px;
+    text-align: justify;
+    }
+.io3
+    {
+      padding-top: 50px;
+      text-align: center;
+      }
+.io4
+      {
+        padding-top: 50px;
+        text-align: center;
+        }
+
+  #feedback{
+  padding-top: 50px;
+  text-align: center;
+}
+.g1
+{
+  padding-top: 50px;
+}
+.g2
+{
+  padding-top: 50px;
+}
+.outer1{
+  padding-top: 50px;
+}
+.outer2{
+  padding-top: 50px;
+}
+#abc{
+  padding-left: 1000px;
+
+}
+.c7
+{
+  padding-top: 50px;
+}
+#h11
+{
+  text-align: center;
+  padding-top: 50px;
+}
+#l1
+{
+  padding-left: 150px;
+}
+#l2
+{
+  padding-left: 125px;
+}
+#l3
+{
+  padding-left: 125px;
+}
+ul
+{
+
+  list-style: none;
+  padding: 100px;
+  display: inline;
+  float:right;
+  width:350px;
+  margin-left: 1000px;
+  margin-top: -145px;
+}
+
+ul a{
+  text-decoration: none;
+}
+
+ul a:hover{
+  text-decoration: underline;
+}
+
+li{
+  display: inline;
+  padding: 20px;
+
+}
+
+#p4
+{
+  text-align: justify;
+}
+
+#i1
+{
+  padding-top: 5px;
+}
+
+.sta
+{
+  padd
+}
+.grid_12 ul{
+  padding-left: 550px;
+
+}
+.container_24
+{
+  text-overflow: inherit;
+}
+
+.c3
+{
+  padding-top: 50px;
+}
