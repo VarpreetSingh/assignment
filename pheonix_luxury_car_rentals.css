@@ -1,0 +1,55 @@
+
+header h1
+{
+  text-align: left;
+}
+.container1 h1
+{
+  padding-left: 70px;
+}
+
+
+#p1
+{
+  padding-left: 75px;
+}
+
+#abc{
+  padding-left: 1000px;
+
+}
+ul
+{
+
+  list-style: none;
+  padding: 0px;
+  display: inline;
+
+  width:350px;
+  margin-left: 1000px;
+  margin-top: 10px;
+}
+
+ul a{
+  text-decoration: none;
+}
+
+ul a:hover{
+  text-decoration: underline;
+}
+
+li{
+  display: inline;
+  padding: 20px;
+
+}
+#i1
+{
+  height: 100px;
+  width: 100px;
+}
+
+.grid_12 ul{
+  padding-left: 550px;
+
+}
